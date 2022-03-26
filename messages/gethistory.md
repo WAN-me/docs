@@ -5,7 +5,7 @@
 
 ## Параметры:
 * count = 10
-* ofset = 0
+* ofset = 0 
 * user_id
 * accesstoken
 
