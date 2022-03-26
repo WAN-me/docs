@@ -13,13 +13,13 @@
     * [get](bugs/get.md "Перейти")
     * [changestat](bugs/changestat.md "Перейти")
     * [edit](bugs/edit.md "Перейти")
-    * __[статусы отчетов](bugs/statuses.md "Перейти")__
     * [comment](bugs/comment.md "Перейти")
     * [getcomments](bugs/getcomments.md "Перейти")
+    * __[статусы отчетов](bugs/statuses.md "Перейти")__
 4. poll
-    * [get](pool/get.md "Перейти")
+    * [get](poll/get.md "Перейти")
     * [read](poll/read.md "Перейти")
-    * __[типы событий](pool/types.md "Перейти")__
+    * __[типы событий](poll/types.md "Перейти")__
 5. groups
     * [get](groups/get.md "Перейти")
     * [new](groups/new.md "Перейти")
