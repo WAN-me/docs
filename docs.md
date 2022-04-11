@@ -37,6 +37,7 @@
     * [reg](account/reg.md "Перейти")
     * [auth](account/auth.md "Перейти")
     * [del](account/del.md "Перейти")
+    * [edit](account/edit.md "Перейти")
     * [invite](account/invite.md "Перейти")
     * [verif](account/verif.md "Перейти")
     * [changepass](account/changepass.md "Перейти")
